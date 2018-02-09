@@ -1,0 +1,25 @@
+<App>
+	<NativeViewHost>
+		<Navigator>
+			<ClientPanel>
+				<Button Background="(0,0,0,0)" >
+					<Hamburger Alignment="TopRight" Margin="10, 10, 20, 10" />
+				</Button>
+			</ClientPanel>
+		</Navigator>
+
+		<Clicked>
+			<Toggle Delay="0.5" Target="edge"/>
+		</Clicked>
+
+		<WhileTrue ux:Name="edge">
+			<Rectangle Width="75%" Height="100%" Color="Black" Alignment="Right" HitTestMode="LocalBoundsAndChildren">
+				<Text Alignment="Center" Color="White">This is a test</Text>
+			</Rectangle>
+		</WhileTrue>
+
+		<MapView Latitude="59.911567" Longitude="10.741030">
+				<MapMarker Latitude="59.911567" Longitude="10.741030" Label="Fuse HQ" />
+			</MapView>
+</NativeViewHost>
+</App>
