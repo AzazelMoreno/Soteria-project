@@ -1,0 +1,6 @@
+<Page ux:Class="SplashPage">
+	<Router ux:Dependency="router"/>
+	<JavaScript File="SplashPage.js"  />
+	<JavaScript File="../Modules/Backend.js" />
+	<Image  Layer="Background" File="../Components/CA.png"/>
+</Page>

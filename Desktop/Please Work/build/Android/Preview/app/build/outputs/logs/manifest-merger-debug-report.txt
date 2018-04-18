@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:3:11-40
+		INJECTED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:5:5-53
+MERGED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:5:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\AndroidManifest.xml:24:8-31
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:20:5-69:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:20:18-50
+	android:allowBackup
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:24:18-45
+	android:icon
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:21:18-45
+	android:largeHeap
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:23:18-43
+	android:description
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:22:18-59
+activity#com.apps.pleasework.PleaseWork
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:26:9-59:20
+	android:screenOrientation
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:40:1-33
+	android:label
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:27:19-56
+	android:launchMode
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:28:19-50
+	android:windowActionBar
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:42:19-50
+	android:windowSoftInputMode
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:35:19-61
+	android:configChanges
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:36:19-99
+	android:theme
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:30:19-50
+	android:taskAffinity
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:34:19-42
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:26:19-44
+meta-data#android.app.lib_name
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:43:13-89
+	android:value
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:43:60-86
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:43:24-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:46:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:48:13-56:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:50:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:51:17-78
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:51:27-75
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:64:9-122
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:64:66-119
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:64:20-65
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:64:9-67:5
+	android:value
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:64:9-67:5
+	android:name
+		ADDED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml:64:20-65
+uses-sdk
+INJECTED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-maps:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\AndroidManifest.xml:4:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.2.0] C:\Users\rudy0\Desktop\Please Work\build\Android\Preview\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\AndroidManifest.xml:20:19-85

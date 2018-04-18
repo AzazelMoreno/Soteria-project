@@ -1,0 +1,4 @@
+$: -102564074
+BuildCommand: build.bat
+RunCommand: run.bat
+Product: "Please Work.apk"

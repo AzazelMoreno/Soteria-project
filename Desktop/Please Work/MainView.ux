@@ -1,0 +1,10 @@
+<App Background="#314148">
+	<Font File="../Tutorial/Components/Megrim.ttf" ux:Global="LogoFont" />
+	<Router ux:Name="router"/>
+	<ClientPanel>
+			<Navigator DefaultPath="splash">
+				<SplashPage ux:Template="splash" router="router"/>
+				<HomePage ux:Template="home" router="router"/>
+			</Navigator>
+	</ClientPanel>
+</App>

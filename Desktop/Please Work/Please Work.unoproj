@@ -1,0 +1,19 @@
+{
+  "Packages": [
+    "Fuse.Maps",
+    "Fuse",
+    "FuseJS",
+    "Fuse.GeoLocation"
+  ],
+  "Includes": [
+    "*",
+    "Modules/*.js:Bundle"
+  ],
+
+  "Android": {
+   "Geo": {
+        "ApiKey": "AIzaSyCs1IMGszHMqFyMJHxzMCXuA7iVQRAqzNs
+"
+    }
+}
+}
