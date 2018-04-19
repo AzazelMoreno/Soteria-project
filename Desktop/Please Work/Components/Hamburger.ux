@@ -1,0 +1,11 @@
+<Page ux:Class="Hamburger">
+	<Circle Margin="5" Alignment="TopRight" Color="#189ad3" Height="50" Width="50" >
+		<Grid RowCount="3" Alignment="HorizontalCenter">
+			<StackPanel ItemSpacing="5" Alignment="TopRight" Margin="14">
+				<Rectangle Height="3" Width="25" Color="White"/>
+				<Rectangle Height="3" Width="25" Color="White"/>
+				<Rectangle Height="3" Width="25" Color="White"/>
+			</StackPanel>
+		</Grid>
+	</Circle>
+</Page>

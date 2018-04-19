@@ -4,10 +4,12 @@
 	<JavaScript File="../Modules/Backend.js" />
 
 	<NativeViewHost>
-		<!-- <Text Value="{locale.latitude}"></Text> -->
 		<MapView Latitude="{location.latitude}" Longitude="{location.longitude}" Zoom="15" >
 			<MapMarker Latitude="{location.latitude}" Longitude="{location.longitude}" Label="Current Location"/>
-
+			<Hamburger/>
 		</MapView>
+
 	</NativeViewHost>
+
+	
 </Page>

@@ -205,18 +205,21 @@ public partial class MainView: Fuse.App
         FuseJSFileReaderImpl = new global::FuseJS.FileReaderImpl();
         FuseJSUserEvents = new global::FuseJS.UserEvents();
         router = new global::Fuse.Navigation.Router();
-        var temp = new global::Fuse.Controls.ClientPanel();
-        var temp1 = new global::Fuse.Controls.Navigator();
+        var temp = new global::Fuse.Android.StatusBarConfig();
+        var temp1 = new global::Fuse.Controls.ClientPanel();
+        var temp2 = new global::Fuse.Controls.Navigator();
         var splash = new Template(this, this);
         var home = new Template1(this, this);
         this.Background = float4(0.1921569f, 0.254902f, 0.282353f, 1f);
         router.Name = __selector0;
-        temp.Children.Add(temp1);
-        temp1.DefaultPath = "splash";
-        temp1.Templates.Add(splash);
-        temp1.Templates.Add(home);
+        temp.Color = Fuse.Drawing.Colors.Black;
+        temp1.Children.Add(temp2);
+        temp2.DefaultPath = "splash";
+        temp2.Templates.Add(splash);
+        temp2.Templates.Add(home);
         this.Children.Add(router);
         this.Children.Add(temp);
+        this.Children.Add(temp1);
     }
     static global::Uno.UX.Selector __selector0 = "router";
 }

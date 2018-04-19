@@ -17,6 +17,6 @@ listener();
 
 
 module.exports = {
-  locale: continuousLocation,
+  location: continuousLocation,
   listener: listener
 }

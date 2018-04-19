@@ -1,6 +1,7 @@
 <App Background="#314148">
 	<Font File="../Tutorial/Components/Megrim.ttf" ux:Global="LogoFont" />
 	<Router ux:Name="router"/>
+	<Android.StatusBarConfig Color="Black" />
 	<ClientPanel>
 			<Navigator DefaultPath="splash">
 				<SplashPage ux:Template="splash" router="router"/>
